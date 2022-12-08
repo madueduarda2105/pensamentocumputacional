@@ -1,1 +1,3 @@
 # pensamentocumputacional
+
+Maria Eduarda Quadros
